@@ -52,7 +52,7 @@ conda install pandas numpy nltk seaborn matplotlib beautifulsoup4
 6. Update the file path in the Python script, if necessary.
 7. Run the Python script:
 ```
-python Natural Language Processing Text Message Analysis.py
+python Text Message Analysis.py
 ```
 8. The script will perform sentiment analysis and key phrase extraction on the dataset, and generate visualizations for sentiment score distributions and prominent phrases.
 
