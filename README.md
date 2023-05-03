@@ -21,7 +21,7 @@ This project is useful for researchers and developers working on text analysis, 
 ```
 pip install pandas numpy nltk seaborn matplotlib bs4
 ```
-or
+    or
 ```
 conda install pandas numpy nltk seaborn matplotlib beautifulsoup4
 ```
@@ -44,7 +44,7 @@ conda install pandas numpy nltk seaborn matplotlib beautifulsoup4
 ```
 pip install pandas numpy nltk seaborn matplotlib bs4
 ```
-or
+    or
 ```
 conda install pandas numpy nltk seaborn matplotlib beautifulsoup4
 ```
