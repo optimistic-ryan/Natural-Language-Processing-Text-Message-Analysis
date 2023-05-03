@@ -6,7 +6,7 @@ This Python script performs sentiment analysis and key phrase extraction on the 
 
 - Text preprocessing: lowercasing, punctuation removal, stopword removal, stemming
 - Tokenization and POS tagging using nltk
-- Sentiment analysis using Naive Bayes Classifier (70% accuracy)
+- Sentiment analysis using Naive Bayes Classifier (99% accuracy)
 - Key phrase extraction using POS tag patterns (JJ+NN, RB+JJ)
 - Data visualization using seaborn and matplotlib
 
