@@ -44,7 +44,7 @@ conda install pandas numpy nltk seaborn matplotlib beautifulsoup4
 ```
 pip install pandas numpy nltk seaborn matplotlib bs4
 ```
-    or
+   or
 ```
 conda install pandas numpy nltk seaborn matplotlib beautifulsoup4
 ```
